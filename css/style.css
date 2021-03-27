@@ -160,3 +160,13 @@ input[type='submit'] {
     margin-top: 20px;
 
 }
+ 
+@media (max-width: 680px) {
+    .titulos h1 {
+        font-size: 45;
+    }
+
+    .titulos h2 {
+        font-size: 20px;
+    }
+}
